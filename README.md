@@ -21,5 +21,6 @@ Feel free to reach out to me through email: kritikabhattad2003@gmail.com
 - **HackerRank**: [bhattadka](https://www.hackerrank.com/profile/bhattadka)
 - **LeetCode**: [kritikabhattad](https://leetcode.com/kritikabhattad/)
 - **CodeChef**: [kritikabhattad](https://www.codechef.com/users/kritikabhattad)
+- **Linkedin**: [kritikabhattad](https://www.linkedin.com/in/kritika-bhattad/)
 
 Thank you for visiting my profile! Let's connect and create something amazing together.
